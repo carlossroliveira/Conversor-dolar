@@ -20,7 +20,7 @@
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
-![Sweetalert2](https://img.shields.io/badge/-Sweetalert2-db7092?style=flat-square&logo=Sweetalert2&logoColor=white)
+![Sweetalert2](https://img.shields.io/badge/-Sweetalert2-9562A8?style=flat-square&logo=Sweetalert2&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ## 👤 Author
