@@ -1,4 +1,4 @@
-<h1 align="center"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Conversor Dólar - Real - Project</h1>
+<h1 align="center"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Conversor Dólar - Real / Project</h1>
 
 🖤 <br />
 
@@ -6,11 +6,15 @@
 
 ## Start project
 
+```bash
 # Acesse a pasta do projeto e baixe as dependências
 $ yarn
+```
 
+```bash
 # Execute
 $ yarn start
+```
 
 ## ♟️ Techs
 
