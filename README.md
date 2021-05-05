@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+<h1 align="center"> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 Conversor Dólar - Real - Project</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🖤 <br />
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Start project
 
-### `yarn start`
+    # Acesse a pasta do projeto e baixe as dependências
+    $ yarn
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+    # Execute
+    $ yarn start
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ♟️ Techs
 
-### `yarn test`
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=npm&logoColor=white)
+![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
+![Sweetalert2](https://img.shields.io/badge/-Sweetalert2-db7092?style=flat-square&logo=styled-components&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 👤 Author
 
-### `yarn build`
+**Carlos Oliveira**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Website: https://carlossroliveira.github.io/Portfolio/
+- Github: [@CarlosOliveira](https://github.com/carlossroliveira)
+- LinkedIn: [@CarlosOliveira](https://www.linkedin.com/in/carlos-oliveira-ab93941a1/)
+- CodePen: [@CarlosOliveira](https://codepen.io/carlosjs)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📝 License
 
-### `yarn eject`
+Copyright © 2021 [Carlos Oliveira](https://github.com/carlossroliveira).<br />
+This project is [MIT](https://github.com/carlossroliveira/screenboard/blob/master/LICENSE) licensed.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
