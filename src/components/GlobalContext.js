@@ -55,31 +55,33 @@ export const GlobalStorage = ({ children }) => {
   // ==================== Total em dólar com imposto
   const [contadorThree, setContadorThree] = useState("");
   function adicionarContadorThree(dinheiroIOF) {
-    setContadorThree(
-      parseFloat(valorDolar) +
-        parseFloat(valorDolar) * (parseFloat(taxa) / 100) +
-        parseFloat(valorDolar) * parseFloat(dinheiroIOF).toFixed(2)
-    );
+    let newValueThree = (
+      Number(valorDolar) +
+      Number(valorDolar) * (Number(taxa) / 100) +
+      Number(valorDolar) * Number(dinheiroIOF)
+    ).toFixed(4);
+    setContadorThree(newValueThree);
   }
 
   // ==================== Total em real sem imposto
   const [contadorFour, setContadorFour] = useState("");
   function adicionarContadorFour() {
+    let newValueFour = Number(valorDolar * dados.USD.bid).toFixed(4);
     if (valorDolar === "") {
     } else {
-      setContadorFour(Number(valorDolar * dados.USD.bid).toFixed(2));
+      setContadorFour(newValueFour);
     }
   }
 
   // ==================== Total em real com imposto
   const [contadorFive, setContadorFive] = useState("");
   function adicionarContadorFive(dinheiroIOF) {
-    setContadorFive(
-      (parseFloat(valorDolar) +
-        parseFloat(valorDolar) * (parseFloat(taxa) / 100)) *
-        parseFloat(dados.USD.bid) +
-        parseFloat(valorDolar) * parseFloat(dinheiroIOF).toFixed(2)
-    );
+    let newValueFive = (
+      (Number(valorDolar) + Number(valorDolar) * (Number(taxa) / 100)) *
+        Number(dados.USD.bid) +
+      Number(valorDolar) * Number(dinheiroIOF)
+    ).toFixed(2);
+    setContadorFive(newValueFive);
   }
 
   // ==================== Button Main
